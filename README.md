@@ -2,6 +2,8 @@
 
 Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align="left" alt="Visits Badge" src="https://badges.pufler.dev/visits/romeuqf/romeuqf" style="max-width:100%;"/>
+
 ## Sobre
 Neste repositório você encontrará painéis e insights propostos pelo Desafio de Bi - 2º Edição da [Alura](https://www.alura.com.br/). São 4 semanas de desafios, os quais os participantes podem desenvolver seus conhecimentos e criar um portifólio. A cada semana é disponibilizado um quadro no [Trello](https://trello.com/), o qual nós fazemos a cópia para acompanhar os pontos propostos, bases compartilhadas, métricas e dicas.
 
