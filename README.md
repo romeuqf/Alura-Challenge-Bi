@@ -66,7 +66,12 @@ Na direita temos as informações dos Top Gênero produzidos pelo diretor. Sem c
 
 
 ## 2º Semana - Alura Food
+
+A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano. Para isso, ela precisa da sua ajuda na criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.
+
 Em Construção
+
+
 
 ## 3º e 4º Semanas - Alura Skimo
 Em contrução
