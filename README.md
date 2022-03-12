@@ -12,6 +12,9 @@ Neste repositório você encontrará painéis e insights propostos pelo Desafio 
 - [3º e 4º Semana](https://www.alura.com.br/challenges/bi-2/semana-03-04-skimo) - Alura Skimo, precisa analisar as métricas de suas vendas.
 
 ## 1º Semana - Alura Films
+
+A Alura Films contratou você para fazer uma pesquisa de mercado, com a finalidade de identificar a seleção ideal de elenco e produção. Para isso, ela disponibilizou uma base de dados do IMDB com 1000 filmes. Use suas habilidades e conhecimentos para explorar, tratar e transformar os dados em informações relevantes que auxiliem na tomada de decisão da empresa.
+
 [Dashboard no PowerBi](https://bit.ly/3hZcEh9)
 
 :large_orange_diamond: Aqui podemos ver as informações relevantes do faturamento dos filmes. Na esquerda mostro o valor total do faturamento, o diretor que mais faturou assim como o ator. No centro temos um ranking de faturamento, apresentando todos o filmes e seus valores. 
@@ -66,7 +69,12 @@ Na direita temos as informações dos Top Gênero produzidos pelo diretor. Sem c
 
 
 ## 2º Semana - Alura Food
+
+A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano. Para isso, ela precisa da sua ajuda na criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.
+
 Em Construção
+
+
 
 ## 3º e 4º Semanas - Alura Skimo
 Em contrução
