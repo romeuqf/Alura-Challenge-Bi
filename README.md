@@ -1,3 +1,5 @@
+<meta name="image" property="og:image" content="https://miro.medium.com/max/1400/0*9f5uMrKMjLbzEf7q.png">
+
 # Alura Challenge Bi - 2º Edição
 
 Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
