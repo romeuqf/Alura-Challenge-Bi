@@ -11,6 +11,7 @@ Neste repositório você encontrará painéis e insights propostos pelo Desafio 
 
 ## 1º Semana - Alura Films
 [Dashboard PowerBi](https://bit.ly/3hZcEh9)
+
 Em construção
 
 ## 2º Semana - Alura Food
