@@ -1,5 +1,3 @@
-<meta name="image" property="og:image" content="https://user-images.githubusercontent.com/58861825/158026373-e81c2626-5737-48b6-94a7-012c03082054.PNG">
-
 # Alura Challenge Bi - 2º Edição
 
 Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
