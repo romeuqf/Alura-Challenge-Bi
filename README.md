@@ -10,6 +10,7 @@ Neste repositório você encontrará painéis e insights propostos pelo Desafio 
 - [3º e 4º Semana](https://www.alura.com.br/challenges/bi-2/semana-03-04-skimo) - Alura Skimo, precisa analisar as métricas de suas vendas.
 
 ## 1º Semana - Alura Films
+[Dashboard PowerBi](https://bit.ly/3hZcEh9)
 Em construção
 
 ## 2º Semana - Alura Food
